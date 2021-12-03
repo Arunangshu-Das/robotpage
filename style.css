@@ -9,6 +9,10 @@ html
 {
   scroll-behavior: smooth;
 }
+body
+{
+  overflow-x: hidden;
+}
 .container, .wrapper {
   width: 100%;
   max-width: 60%;
