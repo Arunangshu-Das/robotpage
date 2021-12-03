@@ -62,7 +62,7 @@ nav .container .menu a {
 .main {
   width: 100%;
   min-height: 100vh;
-  background: url(./img/banner-bg.jpg) no-repeat center/cover;
+  background: url(banner-bg.jpg) no-repeat center/cover;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -203,7 +203,7 @@ nav .container .menu a {
   width: 100%;
   max-width: 50%;
   height: 500px;
-  background: url("img/about-img.png") no-repeat center/cover;
+  background: url("about-img.png") no-repeat center/cover;
 }
 
 .connect .container .card .connectInfo {
@@ -261,7 +261,7 @@ nav .container .menu a {
 }
 
 .connect .container .card.second .connectBg {
-  background: url("img/video-bg.jpg") no-repeat center/cover;
+  background: url("video-bg.jpg") no-repeat center/cover;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -291,7 +291,7 @@ nav .container .menu a {
 .features {
   padding: 100px 0;
   width: 100%;
-  background: url("img/feature-bg.jpg") no-repeat center/cover;
+  background: url("feature-bg.jpg") no-repeat center/cover;
 }
 
 .features .title {
@@ -429,14 +429,14 @@ nav .container .menu a {
 }
 
 .blog .container .blogCard .blogBg {
-  background: url("img/b1.jpg") no-repeat center/cover;
+  background: url("b1.jpg") no-repeat center/cover;
   width: 100%;
   height: 390px;
   border-radius: 25px;
 }
 
 .blog .container .blogCard .blogBg.second {
-  background: url("img/b2.jpg") no-repeat center/cover;
+  background: url("b2.jpg") no-repeat center/cover;
 }
 
 .blog .container .blogCard .blogInfo .heading {
@@ -467,7 +467,7 @@ nav .container .menu a {
 
 footer {
   width: 100%;
-  background: url("img/footer-bg.jpg") no-repeat center/cover;
+  background: url("footer-bg.jpg") no-repeat center/cover;
 }
 
 footer .container {
